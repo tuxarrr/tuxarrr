@@ -2,7 +2,6 @@
 
 <img src="./assets/paris-card.svg" width="100%" alt="tuxarr"/>
 
-<br>
 
 <table width="100%">
 <tr>
@@ -17,14 +16,16 @@
   height="130"
   alt="tuxarr"
 />
-
 <h2>tuxarr</h2>
 
 <code>sudo pacman -S pronouns</code>
 
-<br><br>
+
 
 <strong>[CyberSecurity/Cloud/AI] - Student</strong>
+
+
+
 
 </div>
 
@@ -32,6 +33,7 @@
   <img src="./assets/location.svg" width="14" height="14" alt="Location"/>
   &nbsp;somewhere
 </p>
+
 
 <div align="center">
 
@@ -42,7 +44,6 @@
   width="390"
   alt="Skills"
 />
-
 </div>
 
 </td>
@@ -57,7 +58,7 @@
   alt="Currently Studying"
 />
 
-<br><br>
+
 
 <table width="100%">
 <tr>
@@ -102,12 +103,13 @@
 </tr>
 </table>
 
-<br>
 
 <h3>Socials</h3>
 
-<p align="center">
+<table>
+<tr>
 
+<td align="center">
   <a href="https://discord.com/users/1478481406647603355" title="Discord: tuxar.rs">
     <img
       src="https://skillicons.dev/icons?i=discord&theme=dark"
@@ -116,25 +118,27 @@
       alt="Discord"
     />
   </a>
+</td>
 
-  &nbsp;&nbsp;
-
+<td align="center">
   <img
     src="https://skillicons.dev/icons?i=instagram&theme=dark"
     width="64"
     height="64"
     alt="Instagram"
   />
+</td>
 
-  &nbsp;&nbsp;
-
+<td align="center">
   <img
     src="https://skillicons.dev/icons?i=twitter&theme=dark"
     width="64"
     height="64"
     alt="Twitter"
   />
+</td>
 
-</p>
+</tr>
+</table>
 
 </div>
