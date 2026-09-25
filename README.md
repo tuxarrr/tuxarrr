@@ -1,12 +1,12 @@
 <div align="center">
 
 <img
-  src="./assets/profile.gif"
+  src="./assets/snake_loop_uniform.svg"
   width="100%"
-  alt="Profile GIF"
+  alt="Retro Snake"
 />
 
-<br><br>
+<br>
 
 <table width="100%">
 <tr>
@@ -26,11 +26,9 @@
 
 <code>sudo pacman -S pronouns</code>
 
-<br><br>
+<br>
 
 <strong>[CyberSecurity/Cloud/AI] - Student</strong>
-
-<br><br>
 
 <p align="center">
   <img
@@ -41,8 +39,6 @@
   />
   &nbsp;somewhere
 </p>
-
-<br>
 
 <h3>Skills</h3>
 
@@ -168,13 +164,5 @@
 
 </tr>
 </table>
-
-<br><br>
-
-<img
-  src="./assets/snake_loop_uniform.svg"
-  width="100%"
-  alt="Retro Snake"
-/>
 
 </div>
