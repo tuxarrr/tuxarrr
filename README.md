@@ -99,10 +99,6 @@
 
 <h3>Socials</h3>
 
-<img
-  src="./assets/socials.svg"
-  width="316"
-  alt="Discord, Instagram, X and YouTube"
-/>
+<p align="center"><img src="https://skillicons.dev/icons?i=discord,instagram,twitter&theme=dark" height="64" alt="Discord, Instagram, Twitter"/>&nbsp;&nbsp;<img src="./assets/gunslol.svg" height="64" alt="guns.lol"/></p>
 
 </div>
