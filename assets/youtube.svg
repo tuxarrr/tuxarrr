@@ -1,0 +1,29 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="48"
+  height="48"
+  viewBox="0 0 48 48"
+>
+
+  <rect
+    width="48"
+    height="48"
+    rx="9"
+    fill="#242938"
+  />
+
+  <rect
+    x="7"
+    y="13"
+    width="34"
+    height="22"
+    rx="7"
+    fill="#FF0000"
+  />
+
+  <path
+    d="M21 18.5L31 24L21 29.5Z"
+    fill="#FFFFFF"
+  />
+
+</svg>
