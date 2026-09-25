@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="./assets/snake_loop_uniform.svg"
+  src="./assets/snake_loop_randomish.svg"
   width="100%"
   alt="Retro Snake"
 />
