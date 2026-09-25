@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="tuxarr banner"/>
+<img src="./assets/terminal.svg" width="100%" alt="Animated Terminal"/>
 
 <br><br>
 
