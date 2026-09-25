@@ -1,128 +1,94 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0C0C0C&text=tuxarr&fontColor=FFFFFF&fontSize=42&fontAlignY=46&desc=CyberSecurity%20%7C%20Cloud%20%7C%20AI%20Student&descSize=15&descAlignY=72"
-  width="100%"
-  alt="tuxarr"
-/>
+<img src="./assets/paris-card.svg" width="100%" alt="tuxarr"/>
 
 <br>
 
 <table width="100%">
 <tr>
 
-<td width="38%" valign="top">
+<td width="42%" valign="top">
 
 <div align="center">
 
 <img
   src="https://github.com/tuxarrr.png"
-  width="155"
-  height="155"
-  alt="tuxarr profile picture"
+  width="150"
+  height="150"
+  alt="tuxarr"
 />
 
-# tuxarr
+<h2>tuxarr</h2>
 
-`he/him`
-
-**[CyberSecurity / Cloud / AI] - Student**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=linux,vscode" height="48" alt="Main Setup"/>
+<code>sudo pacman -S pronouns</code>
 
 <br><br>
 
-`sudo pacman -S knowledge`
+<strong>[CyberSecurity/Cloud/AI] - Student</strong>
 
-</div>
+<br><br>
+
+<h3>Skills</h3>
+
+<img
+  src="https://skillicons.dev/icons?i=postgres,python,rust,linux,git&theme=dark"
+  width="390"
+  alt="Skills"
+/>
 
 <br>
 
-### Bio
-
-<div align="center">
-
 <img
-  src="https://skillicons.dev/icons?i=postgres,python,rust,linux,git,ts,pytorch,bash,kubernetes,terraform"
-  alt="Tech Stack"
+  src="https://skillicons.dev/icons?i=ts,pytorch,bash,kubernetes,terraform&theme=dark"
+  width="390"
+  alt="Skills"
 />
 
 </div>
 
-<br>
-
-**[CyberSecurity / Cloud / AI] - Student**
-
 </td>
 
-<td width="62%" valign="top">
-
-## About
+<td width="58%" valign="top">
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=155&color=151515&text=Currently%20Studying&fontColor=FFFFFF&fontSize=34&fontAlignY=43&desc=HTL%20St.%20P%C3%B6lten%20Student&descSize=17&descAlignY=68"
+  src="./assets/htlstp-card.svg"
   width="100%"
   alt="Currently Studying"
 />
 
-</div>
-
-<br>
+<br><br>
 
 <table width="100%">
+
 <tr>
 
-<td width="50%" valign="middle">
-
-<table>
-<tr>
-<td>
+<td width="50%" align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=python"
-  width="62"
+  src="https://skillicons.dev/icons?i=python&theme=dark"
+  width="72"
   alt="Python"
 />
 
-</td>
-<td>
+<br>
 
-### Python
-
-Currently learning
-
-</td>
-</tr>
-</table>
+<strong>Python</strong>
 
 </td>
 
-<td width="50%" valign="middle">
-
-<table>
-<tr>
-<td>
+<td width="50%" align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=rust"
-  width="62"
+  src="https://skillicons.dev/icons?i=rust&theme=dark"
+  width="72"
   alt="Rust"
 />
 
-</td>
-<td>
+<br>
 
-### Rust
-
-Currently learning
-
-</td>
-</tr>
-</table>
+<strong>Rust</strong>
 
 </td>
 
@@ -130,53 +96,43 @@ Currently learning
 
 <tr>
 
-<td width="50%" valign="middle">
+<td width="50%" align="center">
 
-<table>
-<tr>
-<td>
+<br>
 
 <img
-  src="https://skillicons.dev/icons?i=postgres"
-  width="62"
+  src="https://skillicons.dev/icons?i=postgres&theme=dark"
+  width="72"
   alt="PostgreSQL"
 />
 
-</td>
-<td>
+<br>
 
-### PostgreSQL
-
-Currently learning
-
-</td>
-</tr>
-</table>
+<strong>PostgreSQL</strong>
 
 </td>
 
-<td width="50%" valign="middle">
+<td width="50%" align="center">
 
-<table>
-<tr>
-<td>
+<br>
 
 <img
-  src="https://skillicons.dev/icons?i=linux"
-  width="62"
+  src="https://skillicons.dev/icons?i=linux&theme=dark"
+  width="72"
   alt="Linux"
 />
 
-</td>
-<td>
+<br>
 
-### Linux
-
-Daily system
+<strong>Linux</strong>
 
 </td>
+
 </tr>
+
 </table>
+
+</div>
 
 </td>
 
@@ -185,25 +141,36 @@ Daily system
 
 <br>
 
-### Focus
+<h3>Socials</h3>
 
-<img src="https://img.shields.io/badge/CyberSecurity-151515?style=for-the-badge&logo=kalilinux&logoColor=F5C400" alt="CyberSecurity"/>
-<img src="https://img.shields.io/badge/Cloud-151515?style=for-the-badge&logo=icloud&logoColor=F5C400" alt="Cloud"/>
-<img src="https://img.shields.io/badge/AI-151515?style=for-the-badge&logo=pytorch&logoColor=F5C400" alt="AI"/>
-<img src="https://img.shields.io/badge/DevOps-151515?style=for-the-badge&logo=kubernetes&logoColor=F5C400" alt="DevOps"/>
+<img
+  src="https://skillicons.dev/icons?i=discord&theme=dark"
+  width="58"
+  alt="Discord"
+/>
 
-<br><br>
+&nbsp;
 
-### Socials
+<img
+  src="https://skillicons.dev/icons?i=instagram&theme=dark"
+  width="58"
+  alt="Instagram"
+/>
 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-<img src="https://img.shields.io/badge/Website-F5C400?style=for-the-badge&logo=firefoxbrowser&logoColor=000000" alt="Website"/>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+&nbsp;
 
-</td>
+<img
+  src="https://skillicons.dev/icons?i=twitter&theme=dark"
+  width="58"
+  alt="Twitter"
+/>
 
-</tr>
-</table>
+&nbsp;
+
+<img
+  src="./assets/youtube.svg"
+  width="58"
+  alt="YouTube"
+/>
 
 </div>
