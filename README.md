@@ -1,7 +1,12 @@
 <div align="center">
 
-<img src="./assets/paris-card.svg" width="100%" alt="tuxarr"/>
+<img
+  src="./assets/profile.gif"
+  width="100%"
+  alt="Profile GIF"
+/>
 
+<br><br>
 
 <table width="100%">
 <tr>
@@ -16,26 +21,28 @@
   height="130"
   alt="tuxarr"
 />
+
 <h2>tuxarr</h2>
 
 <code>sudo pacman -S pronouns</code>
 
-
+<br><br>
 
 <strong>[CyberSecurity/Cloud/AI] - Student</strong>
 
+<br><br>
 
-
-
-</div>
-
-<p align="left">
-  <img src="./assets/location.svg" width="14" height="14" alt="Location"/>
+<p align="center">
+  <img
+    src="./assets/location.svg"
+    width="14"
+    height="14"
+    alt="Location"
+  />
   &nbsp;somewhere
 </p>
 
-
-<div align="center">
+<br>
 
 <h3>Skills</h3>
 
@@ -44,6 +51,7 @@
   width="390"
   alt="Skills"
 />
+
 </div>
 
 </td>
@@ -58,19 +66,27 @@
   alt="Currently Studying"
 />
 
-
+<br><br>
 
 <table width="100%">
 <tr>
 
 <td width="50%" align="center" valign="middle">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="74" alt="Python"/>
+  <img
+    src="https://skillicons.dev/icons?i=python&theme=dark"
+    width="74"
+    alt="Python"
+  />
   <br>
   <strong>Python</strong>
 </td>
 
 <td width="50%" align="center" valign="middle">
-  <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="74" alt="Rust"/>
+  <img
+    src="https://skillicons.dev/icons?i=rust&theme=dark"
+    width="74"
+    alt="Rust"
+  />
   <br>
   <strong>Rust</strong>
 </td>
@@ -81,14 +97,22 @@
 
 <td width="50%" align="center" valign="middle">
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="74" alt="PostgreSQL"/>
+  <img
+    src="https://skillicons.dev/icons?i=postgres&theme=dark"
+    width="74"
+    alt="PostgreSQL"
+  />
   <br>
   <strong>PostgreSQL</strong>
 </td>
 
 <td width="50%" align="center" valign="middle">
   <br>
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="74" alt="Linux"/>
+  <img
+    src="https://skillicons.dev/icons?i=linux&theme=dark"
+    width="74"
+    alt="Linux"
+  />
   <br>
   <strong>Linux</strong>
 </td>
@@ -103,6 +127,7 @@
 </tr>
 </table>
 
+<br>
 
 <h3>Socials</h3>
 
@@ -110,7 +135,10 @@
 <tr>
 
 <td align="center">
-  <a href="https://discord.com/users/1478481406647603355" title="Discord: tuxar.rs">
+  <a
+    href="https://discord.com/users/1478481406647603355"
+    title="Discord: tuxar.rs"
+  >
     <img
       src="https://skillicons.dev/icons?i=discord&theme=dark"
       width="64"
@@ -140,5 +168,13 @@
 
 </tr>
 </table>
+
+<br><br>
+
+<img
+  src="./assets/snake_loop_uniform.svg"
+  width="100%"
+  alt="Retro Snake"
+/>
 
 </div>
