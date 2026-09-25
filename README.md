@@ -1,17 +1,51 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" width="100%" alt="Animated Terminal"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0C0C0C&text=tuxarr&fontColor=FFFFFF&fontSize=42&fontAlignY=46&desc=CyberSecurity%20%7C%20Cloud%20%7C%20AI%20Student&descSize=15&descAlignY=72"
+  width="100%"
+  alt="tuxarr"
+/>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/HTL%20St.%20P%C3%B6lten-0B0B0B?style=for-the-badge&logo=linux&logoColor=F5C400" alt="HTL St. Pölten"/>
-<img src="https://img.shields.io/badge/Linux%20User-0B0B0B?style=for-the-badge&logo=linux&logoColor=F5C400" alt="Linux User"/>
-<img src="https://img.shields.io/badge/CyberSecurity%20%7C%20Cloud%20%7C%20AI-0B0B0B?style=for-the-badge&logo=gnubash&logoColor=F5C400" alt="CyberSecurity Cloud AI"/>
+<table width="100%">
+<tr>
 
-<br><br>
+<td width="38%" valign="top">
+
+<div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=linux,python,rust,ts,postgres,git,bash,pytorch,kubernetes,terraform,vscode&theme=dark"
+  src="https://github.com/tuxarrr.png"
+  width="155"
+  height="155"
+  alt="tuxarr profile picture"
+/>
+
+# tuxarr
+
+`he/him`
+
+**[CyberSecurity / Cloud / AI] - Student**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,vscode" height="48" alt="Main Setup"/>
+
+<br><br>
+
+`sudo pacman -S knowledge`
+
+</div>
+
+<br>
+
+### Bio
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=postgres,python,rust,linux,git,ts,pytorch,bash,kubernetes,terraform"
   alt="Tech Stack"
 />
 
@@ -19,74 +53,157 @@
 
 <br>
 
-<img src="./assets/terminal.gif" width="100%" alt="Terminal Animation"/>
+**[CyberSecurity / Cloud / AI] - Student**
+
+</td>
+
+<td width="62%" valign="top">
+
+## About
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=155&color=151515&text=Currently%20Studying&fontColor=FFFFFF&fontSize=34&fontAlignY=43&desc=HTL%20St.%20P%C3%B6lten%20Student&descSize=17&descAlignY=68"
+  width="100%"
+  alt="Currently Studying"
+/>
+
+</div>
 
 <br>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-## about_me.sh
+<td width="50%" valign="middle">
 
-```bash
-name="tuxarr"
-pronouns="he/him"
-student="HTL St. Pölten"
+<table>
+<tr>
+<td>
 
-focus=(
-  "CyberSecurity"
-  "Cloud Engineering"
-  "Artificial Intelligence"
-  "DevOps"
-)
-
-main_system="Linux"
-shell="Bash"
-editor="VS Code"
-```
+<img
+  src="https://skillicons.dev/icons?i=python"
+  width="62"
+  alt="Python"
+/>
 
 </td>
-<td width="50%" valign="top">
+<td>
 
-## currently_learning.log
+### Python
 
-```text
-Python
-Rust
-TypeScript
-PostgreSQL
-PyTorch
-Kubernetes
-Terraform
-Git
-Linux
-Bash
-```
+Currently learning
 
 </td>
 </tr>
 </table>
 
+</td>
+
+<td width="50%" valign="middle">
+
+<table>
+<tr>
+<td>
+
+<img
+  src="https://skillicons.dev/icons?i=rust"
+  width="62"
+  alt="Rust"
+/>
+
+</td>
+<td>
+
+### Rust
+
+Currently learning
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="middle">
+
+<table>
+<tr>
+<td>
+
+<img
+  src="https://skillicons.dev/icons?i=postgres"
+  width="62"
+  alt="PostgreSQL"
+/>
+
+</td>
+<td>
+
+### PostgreSQL
+
+Currently learning
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="middle">
+
+<table>
+<tr>
+<td>
+
+<img
+  src="https://skillicons.dev/icons?i=linux"
+  width="62"
+  alt="Linux"
+/>
+
+</td>
+<td>
+
+### Linux
+
+Daily system
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
 <br>
 
-<div align="center">
+### Focus
 
-## socials
-
-<img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
-<img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=F5C400" alt="Website"/>
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
+<img src="https://img.shields.io/badge/CyberSecurity-151515?style=for-the-badge&logo=kalilinux&logoColor=F5C400" alt="CyberSecurity"/>
+<img src="https://img.shields.io/badge/Cloud-151515?style=for-the-badge&logo=icloud&logoColor=F5C400" alt="Cloud"/>
+<img src="https://img.shields.io/badge/AI-151515?style=for-the-badge&logo=pytorch&logoColor=F5C400" alt="AI"/>
+<img src="https://img.shields.io/badge/DevOps-151515?style=for-the-badge&logo=kubernetes&logoColor=F5C400" alt="DevOps"/>
 
 <br><br>
 
-## snake
+### Socials
 
-<img src="./assets/snake.gif" width="100%" alt="Snake Animation"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<img src="https://img.shields.io/badge/Website-F5C400?style=for-the-badge&logo=firefoxbrowser&logoColor=000000" alt="Website"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 
-<br><br>
+</td>
 
-<img src="https://komarev.com/ghpvc/?username=tuxarrr&label=PROFILE+VIEWS&color=F5C400&style=for-the-badge" alt="Profile Views"/>
+</tr>
+</table>
 
 </div>
