@@ -13,8 +13,8 @@
 
 <img
   src="https://github.com/tuxarrr.png"
-  width="150"
-  height="150"
+  width="130"
+  height="130"
   alt="tuxarr"
 />
 
@@ -26,7 +26,14 @@
 
 <strong>[CyberSecurity/Cloud/AI] - Student</strong>
 
-<br><br>
+</div>
+
+<p align="left">
+  <img src="./assets/location.svg" width="14" height="14" alt="Location"/>
+  &nbsp;somewhere
+</p>
+
+<div align="center">
 
 <h3>Skills</h3>
 
@@ -99,6 +106,35 @@
 
 <h3>Socials</h3>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=discord,instagram,twitter&theme=dark" height="64" alt="Discord, Instagram, Twitter"/>&nbsp;&nbsp;<img src="./assets/gunslol.svg" height="64" alt="guns.lol"/></p>
+<p align="center">
+
+  <a href="https://discord.com/users/1478481406647603355" title="Discord: tuxar.rs">
+    <img
+      src="https://skillicons.dev/icons?i=discord&theme=dark"
+      width="64"
+      height="64"
+      alt="Discord"
+    />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <img
+    src="https://skillicons.dev/icons?i=instagram&theme=dark"
+    width="64"
+    height="64"
+    alt="Instagram"
+  />
+
+  &nbsp;&nbsp;
+
+  <img
+    src="https://skillicons.dev/icons?i=twitter&theme=dark"
+    width="64"
+    height="64"
+    alt="Twitter"
+  />
+
+</p>
 
 </div>
